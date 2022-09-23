@@ -8,7 +8,7 @@ XGCM discussions on SGRID:
 
 * https://github.com/xgcm/xgcm/issues/109
 
-Data
+Sample S-Grid Data Sources
 * https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/YKM4LQ
 * https://drive.google.com/file/d/1MH1b5vt3Cu-Hg0I2tdGUA3CxiLU3T9Za/view?usp=sharing
 * https://opendap.deltares.nl/thredds/catalog/opendap/deltares/Delft3D/netcdf_example_files/catalog.html?dataset=varopendap/deltares/Delft3D/netcdf_example_files/trim-westernscheldt_sph.nc
