@@ -22,5 +22,4 @@ def extract_xgcm_meta_from_sgrid_data(ds):
 """
 * inspect ds.grid
   * inspect face_dimensions
-  *
 """
