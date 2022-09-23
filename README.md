@@ -7,3 +7,6 @@
 XGCM discussions on SGRID:
 
 * https://github.com/xgcm/xgcm/issues/109
+
+Data
+* https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/YKM4LQ
