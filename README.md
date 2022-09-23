@@ -13,6 +13,9 @@ Sample S-Grid Data Sources
 * https://drive.google.com/file/d/1MH1b5vt3Cu-Hg0I2tdGUA3CxiLU3T9Za/view?usp=sharing
 * https://opendap.deltares.nl/thredds/catalog/opendap/deltares/Delft3D/netcdf_example_files/catalog.html?dataset=varopendap/deltares/Delft3D/netcdf_example_files/trim-westernscheldt_sph.nc
 
+Presentation_Link:
+https://docs.google.com/presentation/d/1x4ByiXqMt4rJad7_9PtQTOOqI9Z8LUYJ/edit?usp=sharing&ouid=115980978354018671087&rtpof=true&sd=true
+
 ## Pseudocode & discussion
 ### Analysing `grid.face_dimensions`
   * List of `FACE_NAME: NODE_NAME (padding: PADDING)`
