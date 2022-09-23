@@ -10,6 +10,12 @@ topology_dimension=2
 node_dimensions= "inode jnode"
 face_dimension= "icell: inode (padding: none) jcell: jnode (padding: none)" ;
 
+#Input Dataset
+variables=dict(
+  grid=([],np.array(0, dtype="int32"),{'cf_role':'grid_topology','topology_dimension':2, "node_dimensions":"inode jnode", "face_dimensions":"icell: inode (padding: none) jcell: jnode (padding: none)"}))
+  
+input_ds=xr.Dataset(data_vars=variables)
+
 
 #Comodo Output Information
 axes={"I","J"]
